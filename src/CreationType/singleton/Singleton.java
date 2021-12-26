@@ -1,10 +1,10 @@
-package Creation_type.singleton;
+package CreationType.singleton;
+
 
 /**
  * @Author zzguo
  * @Date 9:49 下午 2021/12/25
  **/
-
 
 public class Singleton {
 
@@ -46,5 +46,6 @@ public class Singleton {
         }
         return uniqueInstance;
     }
+
 
 }

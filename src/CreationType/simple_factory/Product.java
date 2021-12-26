@@ -1,4 +1,4 @@
-package Creation_type.simple_factory;
+package CreationType.simple_factory;
 
 /**
  * @Author zzguo
