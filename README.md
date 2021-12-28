@@ -9,4 +9,11 @@
   - 简单工厂模式
   - 工厂方法模式
   - 抽象工厂模式
-  - 生成器(Builder)模式
+  - 生成器模式(Builder)
+  - 原型模式(Prototype)
+
+- 结构型
+  - 外观模式(Facade)
+  - 适配器模式(Adapter)
+  - 桥接模式(Bridge)
+  - 组合模式(Composite)
