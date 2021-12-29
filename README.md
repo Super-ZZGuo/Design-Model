@@ -17,3 +17,4 @@
   - 适配器模式(Adapter)
   - 桥接模式(Bridge)
   - 组合模式(Composite)
+  - 装饰者模式(Decorator)
