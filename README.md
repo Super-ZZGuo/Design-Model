@@ -18,3 +18,5 @@
   - 桥接模式(Bridge)
   - 组合模式(Composite)
   - 装饰者模式(Decorator)
+  - 享元模式(FlyWeight)
+  - 代理模式(Proxy)
