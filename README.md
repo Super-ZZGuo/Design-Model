@@ -20,3 +20,9 @@
   - 装饰者模式(Decorator)
   - 享元模式(FlyWeight)
   - 代理模式(Proxy)
+    
+- 行为型
+  - 责任链模式(ChainOfResponsibility)
+  - 模版方法模式(TemplateMethod)
+  - 命令行模式(Command)
+  - 观察者模式(Observer)
