@@ -26,3 +26,10 @@
   - 模版方法模式(TemplateMethod)
   - 命令行模式(Command)
   - 观察者模式(Observer)
+  - 访问者模式(Vistor)
+  - 解释器模式(Interpreter)
+  - 迭代器模式(Iterator)
+  - 中介者模式(Mediator)
+  - 备忘录模式(Memento)
+  - 状态模式（State）
+  - 策略模式(Strategy)
